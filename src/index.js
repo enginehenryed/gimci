@@ -49,4 +49,4 @@ if ((process.argv)[2] === 'dict') {
     rl.close();
     search((process.argv)[2])
   });
-}
+};
